@@ -1,1 +1,18 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: Adventures in cryptocurrency
+email: daniel.tao@gmail.com
+description: Musings of a neophyte hoping to learn more
+url: http://danieltao.com
+twitter_username: dan_tao
+github_username:  dtao
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock

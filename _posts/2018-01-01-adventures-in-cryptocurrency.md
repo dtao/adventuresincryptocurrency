@@ -1,5 +1,8 @@
-# Adventures in cryptocurrency
-
+---
+layout: post
+title:  "Adventures in cryptocurrency"
+date:   2018-01-01 22:13:43 -0600
+---
 I've decided I'm going to start learning about cryptocurrency this year. From what I can tell, I may be late to the party; but it could also be that the party's just getting started. At the very least it seems like it could be an interesting ride.
 
 As insurance against this being a waste of time and energy, I thought a fun exercise while I'm learning about it would be to keep a public journal of everything I discover along the way. This way, even if I don't make any money, I'll at least have something concrete I can point to that I created in the process. A historical artifact of sorts.
