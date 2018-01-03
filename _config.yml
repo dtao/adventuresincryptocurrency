@@ -4,7 +4,8 @@ email: daniel.tao@gmail.com
 description: Musings of a neophyte hoping to learn more
 url: http://danieltao.com
 twitter_username: dan_tao
-github_username:  dtao
+github_username: dtao
+google_analytics: UA-42171040-3
 
 # Build settings
 markdown: kramdown
