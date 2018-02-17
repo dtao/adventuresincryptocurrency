@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-header .site-title,
+.page-heading, .post-link,
+.post-header {
+  font-family: Monaco, 'Lucida Console', monospace;
+}
+
+.post-content {
+  font-family: Palatino, serif;
+}
